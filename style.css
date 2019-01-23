@@ -1,0 +1,22 @@
+body {
+    background: #aed9da;
+    color: #135589;
+}
+
+.card-body {
+    padding: 3rem;
+}
+.card-title {
+    font-size: 2.5rem;
+  
+}
+
+.card-text {
+    font-size: 2rem;
+}
+
+#author {
+    font-style: italic;
+    font-size: 1.5rem;
+    text-align: center;
+}
